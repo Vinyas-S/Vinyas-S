@@ -2,7 +2,7 @@
 
 ### Open Source Contributions
 
-- **Kestra**: 
+- **Kestra**
 
 ### Find me
 [LinkedIn](https://www.linkedin.com/in/vinyas-s-506a78169/) · [vinyasdev.in](https://vinyasdev.in)
